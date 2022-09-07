@@ -13,10 +13,10 @@ Project:
         custom python modules goes to this folder
     .gitignore
     docker-compose.yml
-        Dockerfile
-        README.md
-        requirements.txt
-        setup.py
+    Dockerfile
+    README.md
+    requirements.txt
+    setup.py
 </pre>
 ## Setting up
 Launch docker on computer.<br >
